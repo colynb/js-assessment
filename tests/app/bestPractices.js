@@ -5,8 +5,7 @@ define([
 ], function(answers) {
   describe("best practices", function(){
     it("you should avoid global variables", function() {
-      answers.globals();
-      expect(window.myObject).not.to.be.ok();
+      expect(answers.globals().myObject).not.to.be.ok();
     });
 
     it("you should declare functions safely", function() {

@@ -7,30 +7,36 @@ if (typeof define !== 'function') { var define = require('amdefine')(module); }
  */
 define(function() {
   return {
+
+    // Just adding 'var' creates myObject locally
     globals : function() {
-      myObject = {
+
+      var myObject = {
         name : 'Jory'
       };
 
       return myObject;
     },
 
+    // Setting the functions to named solved the problem
     functions : function(flag) {
       if (flag) {
-        function getValue() { return "a"; }
+        var getValue = function () { return "a"; }
       } else {
-        function getValue() { return "b"; }
+        var getValue = function () { return "b"; }
       }
 
       return getValue();
     },
 
+    // I'm not really sure what the problem is here.
     parseInt : function(num) {
-      return parseInt(num);
+      console.log('raw: %s, int: %i', num, parseInt(num));
+      return parseInt(num, 10); // <--------- Hard code radix to 10 - otherwise JS interprets leading 0s as octal (Something I didn't know about before this test!)
     },
 
     identity : function(val1, val2) {
-
+      return val1 === val2; // <--------- something I learned from PHP actually
     }
   };
 });
