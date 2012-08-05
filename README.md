@@ -32,6 +32,9 @@ You can also run (most of) the tests on the command line:
 
 The command line runner is a work in progress; contributions welcome :)
 
+## Setting up NodeJS and NPM on MAC OS X
+http://shapeshed.com/setting-up-nodejs-and-npm-on-mac-osx/
+
 ## I want to contribute tests; what do I do?
 
 Submit a pull request! The tests are currently loosely organized by topic, so
