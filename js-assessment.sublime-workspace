@@ -571,7 +571,7 @@
 			"file": "app/objects.js",
 			"settings":
 			{
-				"buffer_size": 1088,
+				"buffer_size": 1338,
 				"line_ending": "Unix"
 			}
 		},
@@ -716,6 +716,9 @@
 	},
 	"file_history":
 	[
+		"/Users/colynb/Sites/js-assessment/tests/runner.js",
+		"/Users/colynb/Sites/js-assessment/tests/app/logicalOperators.js",
+		"/Users/colynb/Sites/js-assessment/app/logicalOperators.js",
 		"/Users/colynb/Sites/js-assessment/app/functions.js",
 		"/Users/colynb/Sites/js-assessment/README.md",
 		"/Users/colynb/Sites/js-assessment/data/testdata.json",
@@ -840,10 +843,7 @@
 		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/event/event_details.wdg.php",
 		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/event/event_header.wdg.php",
 		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-events.js",
-		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/asset_bid_box.css",
-		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/asset/auction-status.css",
-		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-pdp.js",
-		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js"
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/asset_bid_box.css"
 	],
 	"find":
 	{
@@ -909,6 +909,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"asdasd",
+			"Rebecca",
 			"this.n",
 			"for (i",
 			"this.i",
@@ -1034,9 +1036,7 @@
 			"serverTime",
 			"countdown_enabled",
 			"Countdown",
-			"countdown",
-			"count",
-			"//$('."
+			"countdown"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1138,7 +1138,7 @@
 	"groups":
 	[
 		{
-			"selected": 13,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -1314,15 +1314,15 @@
 					"file": "app/objects.js",
 					"settings":
 					{
-						"buffer_size": 1088,
+						"buffer_size": 1338,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								661,
-								661
+								544,
+								544
 							]
 						],
 						"settings":
@@ -1349,8 +1349,8 @@
 						"selection":
 						[
 							[
-								1328,
-								1328
+								385,
+								385
 							]
 						],
 						"settings":
@@ -1360,7 +1360,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 169.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -2130,6 +2130,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 344.0,
+	"side_bar_width": 637.0,
 	"status_bar_visible": true
 }

@@ -3,13 +3,20 @@ if (typeof define !== 'function') { var define = require('amdefine')(module); }
 define(function() {
   return {
 
-  	// Struggling here - skipping for now
+    /*
+     * Thought process
+     *  1. If the only change I make is to simply return fn(), the name property gets used but not the greeting. (??)
+     *  2. Turns out that the scope of the sayIt function is the window object, so name and greeting belong to the window object
+     *  3. Setting the properties to the window object creates global leak error
+     *  4. Re-thinking this
+     *  5. Admit defeat - this was really tough. Googled "js alter context". Tried example from
+            http://stackoverflow.com/questions/1536164/changing-context-of-a-function-in-javascript
+            Still not exactly sure what's going on here.
+     */
     alterContext : function(fn, obj) {
-    	this.name = obj.name;
-    	this.greeting = obj.greeting;
-    	var out = fn();
-    	console.log(obj);
-    	return out;
+        this.name = obj.name;
+        this.greeting = obj.greeting;
+        return fn.call(this);
     },
 
     /*
