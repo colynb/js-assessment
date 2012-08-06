@@ -1,0 +1,2135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fizz",
+				"fizzbuzz"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"new",
+				"newArr"
+			],
+			[
+				"ob_clean",
+				"ob_end_clean"
+			],
+			[
+				"customer",
+				"customer-manager"
+			],
+			[
+				"is_s",
+				"is_source_workflow"
+			],
+			[
+				"event_date",
+				"event_date_to"
+			],
+			[
+				"reserv",
+				"reserve_met"
+			],
+			[
+				"rese",
+				"reserve_met_html"
+			],
+			[
+				"close",
+				"close_bidding_on_countdown_end"
+			],
+			[
+				"time",
+				"time_remaining"
+			],
+			[
+				"count",
+				"countdown_enabled"
+			],
+			[
+				"_",
+				"_log"
+			],
+			[
+				"bid_tye",
+				"bid_type_array"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"show",
+				"show_data_rows"
+			],
+			[
+				"end",
+				"end_date_time"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"countd",
+				"countdown_date"
+			],
+			[
+				"bidding",
+				"bidding_detail"
+			],
+			[
+				"curr",
+				"curr_bid_amount"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"el",
+				"el_type"
+			],
+			[
+				"countdown",
+				"countdown_title"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"user_",
+				"user_info"
+			],
+			[
+				"event",
+				"event_id"
+			],
+			[
+				"sear",
+				"searchVars"
+			],
+			[
+				"selec",
+				"selectedSeller"
+			],
+			[
+				"status",
+				"status_info"
+			],
+			[
+				"ITEM",
+				"ITEM_NUMBER"
+			],
+			[
+				"event_offer",
+				"event_offer_id_list"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"high",
+				"high_bid_message"
+			],
+			[
+				"offer",
+				"offer_id"
+			],
+			[
+				"server",
+				"serverTime"
+			],
+			[
+				"tim",
+				"timeOffset"
+			],
+			[
+				"counter",
+				"counterStart"
+			],
+			[
+				"sec",
+				"end_date_secs_left"
+			],
+			[
+				"para",
+				"param_values"
+			],
+			[
+				"data",
+				"datacall"
+			],
+			[
+				"deb",
+				"debug_backtrace"
+			],
+			[
+				"en",
+				"entityTypes"
+			],
+			[
+				"backgr",
+				"background	background-color: rgb"
+			],
+			[
+				"back",
+				"background	background-repeat: r/r-x/r-y/n-r"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"platinu",
+				"platinum_seller"
+			],
+			[
+				"text",
+				"text	text-align: left/center/right"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"bac",
+				"background	background-repeat: r/r-x/r-y/n-r"
+			],
+			[
+				"xml",
+				"xml_template"
+			],
+			[
+				"host",
+				"host_ip"
+			],
+			[
+				"be",
+				"bedrooms_min"
+			],
+			[
+				"saved",
+				"saved_search_response"
+			],
+			[
+				"se",
+				"secondary"
+			],
+			[
+				"x",
+				"xkey"
+			],
+			[
+				"pass",
+				"passed_params"
+			],
+			[
+				"aler",
+				"alert_options"
+			],
+			[
+				"query",
+				"query_params"
+			],
+			[
+				"httpb",
+				"http_build_query"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"user",
+				"user_profile"
+			],
+			[
+				"bidd",
+				"bidding_detail"
+			],
+			[
+				"har",
+				"harness_image_base64_url"
+			],
+			[
+				"webser",
+				"webservice"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"_load",
+				"_loaded_template_content"
+			],
+			[
+				"xhpr",
+				"xhprof_data"
+			],
+			[
+				"list",
+				"list	list-style: type position image"
+			],
+			[
+				"page-left",
+				"page-left-white"
+			],
+			[
+				"wo",
+				"workflow"
+			],
+			[
+				"e",
+				"expiry"
+			],
+			[
+				"acc",
+				"accordion_groups"
+			],
+			[
+				"ref",
+				"refinements"
+			],
+			[
+				"th",
+				"therequest"
+			],
+			[
+				"re",
+				"footer_refinements"
+			],
+			[
+				"foote",
+				"footer_refinements"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"primary",
+				"primary_refinements"
+			],
+			[
+				"pri",
+				"primary_refinements"
+			],
+			[
+				"_re",
+				"_refinement_types"
+			],
+			[
+				"address",
+				"address_list"
+			],
+			[
+				"modal",
+				"modal_id"
+			],
+			[
+				"moda",
+				"modal_id"
+			],
+			[
+				"_ref",
+				"_refinment_map"
+			],
+			[
+				"add",
+				"addresses"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"simpl",
+				"simplexml_load_file"
+			],
+			[
+				"templa",
+				"template_id"
+			],
+			[
+				"dadd",
+				"daddr_list"
+			],
+			[
+				"da",
+				"daddr_list"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"sor",
+				"sort_options"
+			],
+			[
+				"de",
+				"default_sort"
+			],
+			[
+				"arrayk",
+				"array_key_exists"
+			],
+			[
+				"fon",
+				"font	font-weight: weight"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"off",
+				"offer_id"
+			],
+			[
+				"iframe",
+				"iframe_url"
+			],
+			[
+				"lazy",
+				"lazyload"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"s",
+				"show_prev"
+			],
+			[
+				"select",
+				"selected_page"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"repor",
+				"report_html"
+			],
+			[
+				"end_date",
+				"end_date_time"
+			],
+			[
+				"Data",
+				"DataSphere"
+			],
+			[
+				"val",
+				"valid_image_types"
+			],
+			[
+				"app",
+				"application_data"
+			],
+			[
+				"form",
+				"form_instances"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"catego",
+				"category-link"
+			],
+			[
+				"scroll",
+				"scrollWheel"
+			],
+			[
+				"form_",
+				"form_params"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"ob_c",
+				"ob_end_clean"
+			],
+			[
+				"wh",
+				"white	white-space: normal/pre/nowrap"
+			],
+			[
+				"paren",
+				"parent_sel"
+			],
+			[
+				"quick",
+				"quick_view_title"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"default",
+				"defaults"
+			],
+			[
+				"drop",
+				"dropdowns"
+			],
+			[
+				"top",
+				"top-nav"
+			],
+			[
+				"pop",
+				"popovertpl"
+			],
+			[
+				"product",
+				"product-image"
+			],
+			[
+				"html",
+				"htmlentities"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/app/bestPractices.js",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/bestPractices.js",
+			"settings":
+			{
+				"buffer_size": 1211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/modules.js",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/arrays.js",
+			"settings":
+			{
+				"buffer_size": 2684,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/arrays.js",
+			"settings":
+			{
+				"buffer_size": 3806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/flowControl.js",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/objects.js",
+			"settings":
+			{
+				"buffer_size": 1088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/objects.js",
+			"settings":
+			{
+				"buffer_size": 1718,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/async.js",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/async.js",
+			"settings":
+			{
+				"buffer_size": 1054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/modules.js",
+			"settings":
+			{
+				"buffer_size": 808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/libs/mocha.js",
+			"settings":
+			{
+				"buffer_size": 88885,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/libs/mocha.css",
+			"settings":
+			{
+				"buffer_size": 2739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/libs/expect.js",
+			"settings":
+			{
+				"buffer_size": 33389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/functions.js",
+			"settings":
+			{
+				"buffer_size": 4266,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"form",
+				"Format: PHP"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"Format",
+				"Format: PHP"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"PHP",
+				"Tidy PHP"
+			],
+			[
+				"Php",
+				"Format: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Form",
+				"Format: PHP"
+			],
+			[
+				"LESS",
+				"Set Syntax: LESS"
+			],
+			[
+				"",
+				"View: Toggle Tabs"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/colynb/Sites/js-assessment/app/functions.js",
+		"/Users/colynb/Sites/js-assessment/README.md",
+		"/Users/colynb/Sites/js-assessment/data/testdata.json",
+		"/Users/colynb/Sites/js-assessment/app/flowControl.js",
+		"/Users/colynb/Sites/js-assessment/tests/app/modules.js",
+		"/Users/colynb/Sites/js-assessment/node_modules/amdefine/amdefine.js",
+		"/Users/colynb/Sites/js-assessment/tests/libs/mocha.js",
+		"/Users/colynb/Sites/js-assessment/server/server.js",
+		"/Users/colynb/Sites/js-assessment/tests/app/objects.js",
+		"/Users/colynb/.bash_profile",
+		"/etc/paths",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/controller/Ajax.ctr.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/form/FormHandler.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/system/System.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/http/Response.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/deu/builds/20120626135100-AAAAAA/forms/sitewide/email-notify.xml",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/domain/deu/layout/footer.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/deu/builds/20120626135100-AAAAAA/workflow/widget.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/widget.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/form/Form.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/form/Form/Page.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/deu/builds/20120626135100-AAAAAA/view/browser/forms/page/default.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/domain/deu/account/email-notify2.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/account/account.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/account/email-notify.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/deu/builds/20120626135100-AAAAAA/static/browser/js/widgets/account/email-notify.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/portal/topnav2.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/auction-day.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/asset-manager.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/deu/builds/20120626135100-AAAAAA/static/browser/js/widgets/asset_bid_box.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/controller/ajax/forms.ctr.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/system/View.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/domain/deu/account/login.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/controller/ajax/account.ctr.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/cms.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/contract-detail.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/portal.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/customer-manager.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/default.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/event-manager.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/partner-manager.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/style-guide.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/system-manager.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/user-manager.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/view/browser/template/portal/login.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/portal/login.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/watchlist.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/qualdashboard.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/admin.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/view/browser/template/portal/style-guide.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/customer.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/asset.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/controller/Global.cfg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/view/browser/template/portal/admin.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/view/browser/template/portal/closing.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/database/hornetq.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/registration.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/portal/event-manager/event_calendar.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/view/browser/template/portal/event-manager/event_calendar.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/array/ArrayRegistry.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/view/browser/template/portal/contract-detail.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/index.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/reporting.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/post-auction.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/closing.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/logs/debug_log",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/partner.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/asset-manager/preview.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/asset-manager/edit.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/workflow/portal/asset-manager/index.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/data/messenger_library/databrokerCatalog.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/data/Messenger.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/data/messenger_library/databrokerEvent.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/portal/login.tpl.php",
+		"/Users/colynb/Documents/Google Chrome - 8:2:12 at 3.59 PM.pcap",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/config/global/Routes.cfg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/deu/builds/20120626135100-AAAAAA/config/global/Routes.cfg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/dashboard.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/www/Web.alias.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/component/session/UserAuth.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/adc-base.less",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/events.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/event/filters.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/unit-tests/offer-detail.test.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/controller/Web.ctr.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/conf/adc.local.conf",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/www/Ajax.alias.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/www/Media.alias.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/asset/description.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/forms/page/default.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/forms/seller-residential.xml",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/forms/request-due-diligence-dvd.xml",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/search/refinements/min-text.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/search/refinements.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/search/refinements.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/workflow/event.wkf.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/navigation/top-bar.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/portal/topbar.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/search.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/forms/page/two-column.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/conf/adc.dev.auction.com.conf",
+		"/Users/colynb/lib/bootstrap/v2.0.2/less/extends/adc/adc.less",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/tests/memcache.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js.mine",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/navigation/top.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/asset/auction-detail-english-auction-bid.tpl.php",
+		"/Users/colynb/Desktop/databrokerEvent.cls.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/portal/auctionday/big_dash_search.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/build.cfg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/jquery/plugins/countdown/default.theme.less",
+		"/Users/colynb/Desktop/auction-status-pdp.js",
+		"/Users/colynb/Desktop/auction-status-base.js",
+		"/Users/colynb/Desktop/auction-detail-english-auction-bid.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/event/event-offer-tile2.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/event/event-offer-tile.tpl.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/event/event_offers.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/asset/bid-box.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/event/results.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/event/event_detail.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/event.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/config/global/Connections.cfg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/event/event_details.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/source/widgets/event/event_header.wdg.php",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-events.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/asset_bid_box.css",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/asset/auction-status.css",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-pdp.js",
+		"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/simpletest",
+			"/Users/colynb/Sites/AFW/Branches/Development/source",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/forms",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/widgets",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/form",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static",
+			"/Users/colynb/Sites/AFW/Branches/Development/source",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/forms",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/data/messenger_library",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/data",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/data/messenger_library",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/data/messenger_library",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/forms",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/form",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/forms",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/v2.0.4/less",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/widgets",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/data,/Users/colynb/Sites/AFW/Branches/Development/source/component/database",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/component/form",
+			"/Users/colynb/Sites/AFW/Branches/Development",
+			"",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/widgets",
+			"/Users/colynb/Sites/AFW/Branches/Development/",
+			"/Users/colynb/Sites/AFW/Branches/Development/source/widgets",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/v2.0.2/less",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/v2.0.1/less",
+			"",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/v2.0.1",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/v2.0.1/less",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/v2.0.2/less",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/lib/bootstrap/source/v2.0.1/less",
+			"/Users/colynb/Sites/AFW/Branches/Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/search",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"this.n",
+			"for (i",
+			"this.i",
+			"insert",
+			"this",
+			"<form",
+			"'label'",
+			"'labe",
+			"labe",
+			"qual",
+			"_attributes",
+			"_getAttributes",
+			"<form",
+			"id",
+			"getElem",
+			"compile",
+			"Output",
+			"_loadXml",
+			"SimpleTestCase",
+			"new SimpleTestCase",
+			"$this->label",
+			"getLabel",
+			"->paintGroupStart",
+			"paintGroupStart",
+			"paintHeader",
+			"<h1>",
+			"paintHeader",
+			"HtmlReporter",
+			"databrokerCatalog.cls.php",
+			"error_text",
+			"databrokerDataCall",
+			"catalog_featuredProduct_request",
+			"CTLG_RQST_GETFEATOFFER",
+			" CTLG_RQST_GETFEATOFFER",
+			"CTLG_RQST_GETFEATOFFER",
+			"closing",
+			".load(",
+			".load",
+			"//$(\"#",
+			".load",
+			".load(",
+			"load",
+			"$this->params",
+			"admin",
+			"\n	case \"",
+			"	case \"",
+			"post-auction",
+			"auctionday",
+			"closing",
+			"clerking",
+			"event-manager",
+			"pre-auction",
+			"preauction",
+			"summary",
+			"assetmanager",
+			"$layout",
+			"include",
+			"portal",
+			"->buffer(",
+			"->buffer",
+			"buffer",
+			"setTemplate",
+			"/account",
+			"catalog_offerDetail_request",
+			"OFFER_",
+			"catalog_offerDetail_request",
+			"Modal",
+			"getEventAssetTypes",
+			"$label",
+			"label",
+			"getEventAssetTypes",
+			"<?",
+			"getEventAssetTypes",
+			"raw",
+			"<type>required</type>",
+			"require",
+			"SOLD",
+			"countdown_end_message",
+			"message",
+			"AuctionStatus",
+			"status",
+			"isLogged",
+			"/auction",
+			"System::Response()->redirect",
+			"?logout=true",
+			"login/?logout=true",
+			"flash_messages",
+			"t.total_secs",
+			"total_secs",
+			"log",
+			"countdown_end_message",
+			"parent",
+			"onDataChange",
+			"1",
+			"onDataChange",
+			"reserve",
+			"reserveMet",
+			"close_bidding",
+			"close_bidding_on_countdown_end",
+			"close_bidding",
+			"GONE!!",
+			"options",
+			"databrokerEvent",
+			"rese",
+			"reserveMet",
+			"ctr",
+			"$('.msg', $obj)",
+			"countdown_options",
+			"allow_bidding",
+			"initData",
+			"row",
+			"countdown_alert_message",
+			"alert",
+			"Final",
+			"$(row)",
+			"time_remaining",
+			"calcTimeRemaining",
+			"btn-",
+			"?>",
+			"count",
+			"updateElement",
+			"watchCountdown",
+			"serverTime",
+			"countdown_enabled",
+			"Countdown",
+			"countdown",
+			"count",
+			"//$('."
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"n",
+			"for (var i",
+			"i",
+			"$event_offer_info",
+			"$bid_info",
+			"$bid_info['",
+			"",
+			".is(':checked')",
+			".is(':checked'",
+			"",
+			"['person_last_name']}</value>",
+			"<value>{$user_profile",
+			"']}</",
+			"{$user_profile",
+			"{$user_profile[",
+			"']}</",
+			"}</",
+			"{$user",
+			"src=\"<?=__static('/img/luxury",
+			".gif')?>\"></span>",
+			".jpg')?>\"></dd>",
+			"<img src=\"<?=__static('/img/leadership/",
+			"}}",
+			"{{",
+			"}}",
+			"{{",
+			"base/images",
+			"url(jquery-ui/themes/bases/images/",
+			"url(img/",
+			"'type' => 'checkbox'",
+			"",
+			"\"] { ba",
+			"google-icon[data=\"",
+			"google-icon[data-index=",
+			" ",
+			"Sell Your Property",
+			"",
+			"<?=$",
+			"?>",
+			"<?=$",
+			"?>",
+			"<?=$",
+			"}<",
+			">{",
+			"$user_profile",
+			"widget-seller-residential-home",
+			"')",
+			"'../",
+			"$user",
+			"}",
+			"{",
+			"",
+			"contact-us",
+			"'doc-",
+			"$this",
+			"attr-value",
+			"theme-adc-form",
+			"",
+			"$vars['product_subcategory']",
+			"['lng']",
+			"$vars['lat']",
+			"$vars['distance']",
+			"src=\"<?=$vars['image_path']?>\"",
+			"<?=$vars['event_date']?>",
+			"$vars['image_path']",
+			"$vars['event_date']",
+			"$vars['property_state']",
+			"$vars['property_city']",
+			"$vars['starting_bid']",
+			"$vars['lot_size']",
+			"$vars['event_id']",
+			"$vars['event_asset_id']",
+			"$vars['square_footage']",
+			"$vars['baths']",
+			"$vars['bedrooms']",
+			"$vars['category']",
+			"$vars['asset_id']",
+			"$vars['property_name']",
+			"['distance']",
+			"['property_name']",
+			"['asset_id']",
+			"$this",
+			"class=\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/app/bestPractices.js",
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/bestPractices.js",
+					"settings":
+					{
+						"buffer_size": 1211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/modules.js",
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tests/app/arrays.js",
+					"settings":
+					{
+						"buffer_size": 2684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								481,
+								481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/arrays.js",
+					"settings":
+					{
+						"buffer_size": 3806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1943,
+								1943
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tests/app/flowControl.js",
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/objects.js",
+					"settings":
+					{
+						"buffer_size": 1088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "tests/app/objects.js",
+					"settings":
+					{
+						"buffer_size": 1718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1328,
+								1328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 169.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/async.js",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "tests/app/async.js",
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "tests/app/modules.js",
+					"settings":
+					{
+						"buffer_size": 808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "tests/libs/mocha.js",
+					"settings":
+					{
+						"buffer_size": 88885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "tests/libs/mocha.css",
+					"settings":
+					{
+						"buffer_size": 2739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "tests/libs/expect.js",
+					"settings":
+					{
+						"buffer_size": 33389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "tests/app/functions.js",
+					"settings":
+					{
+						"buffer_size": 4266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"portal/topnav",
+				"Development/source/widgets/portal/topnav2.wdg.php"
+			],
+			[
+				"form",
+				"Development/source/component/form/Form.cls.php"
+			],
+			[
+				"deu/builds/20120626135100-aaaaaa/workflow/widget.wkf.php",
+				"Development/domains/deu/builds/20120626135100-AAAAAA/workflow/widget.wkf.php"
+			],
+			[
+				"widget.wkf.php",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/widget.wkf.php"
+			],
+			[
+				"page",
+				"Development/source/component/form/Form/Page.cls.php"
+			],
+			[
+				"view",
+				"Development/source/component/system/View.cls.php"
+			],
+			[
+				"response",
+				"Development/source/component/http/Response.cls.php"
+			],
+			[
+				"system",
+				"Development/source/component/system/System.cls.php"
+			],
+			[
+				"formhand",
+				"Development/source/component/form/FormHandler.cls.php"
+			],
+			[
+				"user",
+				"Development/source/component/session/UserAuth.cls.php"
+			],
+			[
+				"databrokerevent.cls.php",
+				"Development/source/component/data/messenger_library/databrokerEvent.cls.php"
+			],
+			[
+				"databrokerca",
+				"Development/source/component/data/messenger_library/databrokerCatalog.cls.php"
+			],
+			[
+				"connect",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/config/global/Connections.cfg.php"
+			],
+			[
+				"hornetq.cls.php",
+				"Development/source/component/database/hornetq.cls.php"
+			],
+			[
+				"portal/login",
+				"Development/source/widgets/portal/login.wdg.php"
+			],
+			[
+				"portal/login.tpl.php",
+				"Development/source/view/browser/template/portal/login.tpl.php"
+			],
+			[
+				"portal/assetmanager/summ",
+				"Development/source/view/browser/template/portal/assetmanager/summary.tpl.php"
+			],
+			[
+				"style-gide",
+				"Development/source/view/browser/template/portal/style-guide.tpl.php"
+			],
+			[
+				"portal/contract-detail.tpl.php",
+				"Development/source/view/browser/template/portal/contract-detail.tpl.php"
+			],
+			[
+				"array",
+				"Development/source/component/array/ArrayRegistry.cls.php"
+			],
+			[
+				"event-manager/event_cal",
+				"Development/source/view/browser/template/portal/event-manager/event_calendar.tpl.php"
+			],
+			[
+				"event-manager/event_ca",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/portal/event-manager/event_calendar.tpl.php"
+			],
+			[
+				"router",
+				"Development/source/component/system/Router.cls.php"
+			],
+			[
+				"routes",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/config/global/Routes.cfg.php"
+			],
+			[
+				"portal/log",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/portal/login.tpl.php"
+			],
+			[
+				"portal",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/portal.wkf.php"
+			],
+			[
+				"dashboard",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/dashboard.wkf.php"
+			],
+			[
+				"messenger",
+				"Development/source/component/data/Messenger.cls.php"
+			],
+			[
+				"databrokercata",
+				"Development/source/component/data/messenger_library/databrokerCatalog.cls.php"
+			],
+			[
+				"asset.wk",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/asset.wkf.php"
+			],
+			[
+				"global",
+				"Development/source/controller/Global.cfg.php"
+			],
+			[
+				"events.wk",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/events.wkf.php"
+			],
+			[
+				"event.wk",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/event.wkf.php"
+			],
+			[
+				"messen",
+				"Development/source/component/data/Messenger.cls.php"
+			],
+			[
+				"databrokereve",
+				"Development/source/component/data/messenger_library/databrokerEvent.cls.php"
+			],
+			[
+				"event/filters",
+				"Development/source/widgets/event/filters.wdg.php"
+			],
+			[
+				"portal/top",
+				"Development/source/widgets/portal/topnav2.wdg.php"
+			],
+			[
+				"top-bar",
+				"Development/source/widgets/navigation/top-bar.wdg.php"
+			],
+			[
+				"topba",
+				"Development/source/widgets/portal/topbar.wdg.php"
+			],
+			[
+				"search.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/search.js"
+			],
+			[
+				"/js/widgets/search/refinements.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/search/refinements.js"
+			],
+			[
+				"search/refine",
+				"Development/source/widgets/search/refinements.wdg.php"
+			],
+			[
+				"seller-re",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/forms/seller-residential.xml"
+			],
+			[
+				"page.cl",
+				"Development/source/component/form/Form/Page.cls.php"
+			],
+			[
+				"asset/de",
+				"Development/source/widgets/asset/description.wdg.php"
+			],
+			[
+				"adc.less",
+				"less/extends/adc/adc.less"
+			],
+			[
+				"userauth",
+				"Development/source/component/session/UserAuth.cls.php"
+			],
+			[
+				"navigation",
+				"Development/source/widgets/navigation/top-bar.wdg.php"
+			],
+			[
+				"english",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/asset/auction-detail-english-auction-bid.tpl.php"
+			],
+			[
+				"overview",
+				"Development/source/widgets/asset/overview.wdg.php"
+			],
+			[
+				"static/browser/js/widgets/asset/auction-status-base.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js"
+			],
+			[
+				"build.cf",
+				"Development/domains/adc/build.cfg.php"
+			],
+			[
+				"portal/auctionday/big_dash_search",
+				"Development/source/widgets/portal/auctionday/big_dash_search.wdg.php"
+			],
+			[
+				"default.theme",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/jquery/plugins/countdown/default.theme.less"
+			],
+			[
+				"/js/widgets/event/results.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/event/results.js"
+			],
+			[
+				"event_detail.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/event/event_detail.js"
+			],
+			[
+				"asset/auction-status.css",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/asset/auction-status.css"
+			],
+			[
+				"bid_box",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/asset_bid_box.css"
+			],
+			[
+				"auction-stat",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js"
+			],
+			[
+				"auction-detail-english-auction-bid",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/asset/auction-detail-english-auction-bid.tpl.php"
+			],
+			[
+				"auction-status-base.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js"
+			],
+			[
+				"event-offer-tile",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/event/event-offer-tile.tpl.php"
+			],
+			[
+				"widgets/event.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/event.js"
+			],
+			[
+				"event.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/portal/event.js"
+			],
+			[
+				"bid-box",
+				"Development/source/widgets/asset/bid-box.wdg.php"
+			],
+			[
+				"event/event_offers",
+				"Development/source/widgets/event/event_offers.wdg.php"
+			],
+			[
+				"default.th",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/jquery/plugins/countdown/default.theme.less"
+			],
+			[
+				"/js/jquery/plugins/countdown/default.theme.",
+				"Development/domains/deu/builds/20120626135100-AAAAAA/static/browser/js/jquery/plugins/countdown/default.theme.less"
+			],
+			[
+				"databrokerevent",
+				"Development/source/component/data/messenger_library/databrokerEvent.cls.php"
+			],
+			[
+				"event/detail.tpl.php",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/event/detail.tpl.php"
+			],
+			[
+				"event.w",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/event.wkf.php"
+			],
+			[
+				"element",
+				"Development/source/component/form/Form/Page/Element.cls.php"
+			],
+			[
+				"/js/widgets/event/event_detail.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/event/event_detail.js"
+			],
+			[
+				"auction-status-pdp.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-pdp.js"
+			],
+			[
+				"bid",
+				"Development/source/widgets/asset/bid-box.wdg.php"
+			],
+			[
+				"event/event-offer-tile",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/event/event-offer-tile.tpl.php"
+			],
+			[
+				"englidh",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/asset/auction-detail-english-auction-bid.tpl.php"
+			],
+			[
+				"eventevent_offer",
+				"Development/source/widgets/event/event_offers.wdg.php"
+			],
+			[
+				"event/res",
+				"Development/source/widgets/event/results.wdg.php"
+			],
+			[
+				"page.cls",
+				"Development/source/component/form/Form/Page.cls.php"
+			],
+			[
+				"mixin",
+				"less/mixins.less"
+			],
+			[
+				"less/extends/adc/butt",
+				"less/extends/adc/buttons.less"
+			],
+			[
+				"luxury/bidding",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/luxury/asset/bidding.less"
+			],
+			[
+				"bid-b",
+				"Development/source/widgets/asset/bid-box.wdg.php"
+			],
+			[
+				"list",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/search/views/list-luxury.tpl.php"
+			],
+			[
+				"adobe",
+				"Development/source/component/search/AdobeSearch.cls.php"
+			],
+			[
+				"luxuryassetbidding",
+				"Development/source/widgets/luxury/asset/bidding.wdg.php"
+			],
+			[
+				"databroker",
+				"Development/source/component/data/messenger_library/databrokerEvent.cls.php"
+			],
+			[
+				"contrac",
+				"Development/source/widgets/contract/contract-edit.wdg.php"
+			],
+			[
+				"auction-satu",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js"
+			],
+			[
+				"debug.css",
+				"Development/source/static/browser/css/debug.css"
+			],
+			[
+				"debug",
+				"Development/source/component/system/Debug.cls.php"
+			],
+			[
+				"bidbox",
+				"Development/source/widgets/asset/bid-box.wdg.php"
+			],
+			[
+				"databrokerweb",
+				"Development/source/component/data/messenger_library/databrokerWebUser.cls.php"
+			],
+			[
+				"offer",
+				"Development/source/component/model/Offer.cls.php"
+			],
+			[
+				"databrokereven",
+				"Development/source/component/data/messenger_library/databrokerEvent.cls.php"
+			],
+			[
+				"connec",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/config/global/Connections.cfg.php"
+			],
+			[
+				"auction-status",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-base.js"
+			],
+			[
+				"datasphere",
+				"Development/source/component/data/DataSphere.cls.php"
+			],
+			[
+				"style-guide.tpl",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/style-guide.tpl.php"
+			],
+			[
+				"sections.tpl",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/style-guide/sections.tpl.php"
+			],
+			[
+				"sections",
+				"less/extends/sections.less"
+			],
+			[
+				"asset_bid",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset_bid_box.js"
+			],
+			[
+				"style-guide/",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/style-guide/alerts.tpl.php"
+			],
+			[
+				"search/h",
+				"Development/source/widgets/search/header-form.wdg.php"
+			],
+			[
+				"navigat",
+				"Development/source/component/system/Navigation.cls.php"
+			],
+			[
+				"dash",
+				"Development/source/controller/ajax/dashboard.ctr.php"
+			],
+			[
+				"engl",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/asset/auction-detail-english-auction-bid.tpl.php"
+			],
+			[
+				"multise",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/jquery/plugins/jquery.multiSelect-1.2.3/jquery.multiSelect.js"
+			],
+			[
+				"portalauctiondayqua",
+				"Development/source/widgets/portal/auctionday/qualdashboard-search.wdg.php"
+			],
+			[
+				"extendsportalvaria",
+				"less/extends/portal/variables.less"
+			],
+			[
+				"extendsportalmoda",
+				"less/extends/portal/modals.less"
+			],
+			[
+				"style-guide",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/portal/style-guide.tpl.php"
+			],
+			[
+				"portal.wk",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/workflow/portal.wkf.php"
+			],
+			[
+				"formhel",
+				"Development/source/component/html/FormHelper.cls.php"
+			],
+			[
+				"countdown",
+				"Development/source/widgets/tests/countdown.wdg.php"
+			],
+			[
+				"widget",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/widget.tpl.php"
+			],
+			[
+				"blank",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/layout/blank.lyt.php"
+			],
+			[
+				"datebrokerevent",
+				"Development/source/component/data/messenger_library/databrokerEvent.cls.php"
+			],
+			[
+				"event.",
+				"Development/source/controller/ajax/event.ctr.php"
+			],
+			[
+				"dashbo",
+				"Development/source/controller/ajax/dashboard.ctr.php"
+			],
+			[
+				"/js/widgets/asset/auction-status-pdp.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset/auction-status-pdp.js"
+			],
+			[
+				"asset/auction-detail-pre-bid",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/asset/auction-detail-pre-bid.tpl.php"
+			],
+			[
+				"asset/auction-detail-trustee",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/view/browser/template/asset/auction-detail-trustee.tpl.php"
+			],
+			[
+				"auction",
+				"Development/source/widgets/asset/auction-status.wdg.php"
+			],
+			[
+				"term_con",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/css/widgets/account/term_condition.css"
+			],
+			[
+				"js/widgets/asset_bid_box.js",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/widgets/asset_bid_box.js"
+			],
+			[
+				"countdownless",
+				"Development/domains/adc/builds/20110910110613-AF3DE8/static/browser/js/jquery/plugins/countdown/default.theme.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true
+}
