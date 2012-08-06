@@ -3,6 +3,24 @@ if (typeof define !== 'function') { var define = require('amdefine')(module); }
 define(function() {
   return {
     fizzBuzz : function(num) {
+      var str = '';
+
+      if (!num) return false;
+
+      if (num % 3 !== 0 && num % 5 !== 0) {
+          return num;
+      }
+
+      if (num % 3 === 0) {
+          str = 'fizz';
+      }
+
+      if (num % 5 === 0) {
+          str += 'buzz';
+      }
+
+      return str;
+
       // write a function that receives a number as its argument;
       // if the number is divisible by 3, the function should return 'fizz';
       // if the number is divisible by 5, the function should return 'buzz';

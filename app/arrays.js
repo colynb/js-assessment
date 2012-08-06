@@ -8,8 +8,8 @@ define(function() {
 
     sum : function(arr) {
         var sum = 0;
-        for (this.i = 0; this.i < arr.length; this.i++) {
-            sum += arr[this.i];
+        for (var i = 0; i < arr.length; i++) {
+            sum += arr[i];
         }
         return parseInt(sum);
     },
@@ -20,11 +20,11 @@ define(function() {
     remove : function(arr, item) {
        console.log('removing %s from array: ', item, arr);
        var newArr = [];
-       for (this.i = 0; this.i < arr.length; this.i++) {
-            if (arr[this.i] === item) {
+       for (var i = 0; i < arr.length; i++) {
+            if (arr[i] === item) {
                 console.log('%s removed!', item);
             } else {
-                newArr.push(arr[this.i]);
+                newArr.push(arr[i]);
             }
         } 
         return newArr;
@@ -45,23 +45,46 @@ define(function() {
     },
 
     insert : function(arr, item, index) {
-
+        arr.splice(index,0,item);
+        return arr;
     },
 
     count : function(arr, item) {
-
+        var n = 0;
+        for (var i = 0; i < arr.length; i++) {
+            if (arr[i] == item) {
+                n++;
+            }
+        }
+        return n;
     },
 
     duplicates : function(arr) {
-
+        var newArr = [];
+        for (var i = 0; i < arr.length; i++) {
+            if ( this.count(arr, arr[i]) >= 2 && newArr.indexOf(arr[i]) === -1) {
+                newArr.push(arr[i]);
+            }
+        }
+        return newArr;
     },
 
     square : function(arr) {
-
+        var newArr = [];
+        for (var i = 0; i < arr.length; i++) {
+            newArr.push(arr[i] * arr[i]);
+        }
+        return newArr;
     },
 
     findAllOccurrences : function(arr, target) {
-
+        var newArr = [];
+        for (var i = 0; i < arr.length; i++) {
+            if (target == arr[i]) {
+                newArr.push(i);
+            }
+        }
+        return newArr;
     }
   };
 });
