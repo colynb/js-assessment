@@ -3,6 +3,9 @@ define([
 ], function(answers) {
   describe("async behavior", function() {
     it("you should understand how to use 'promises' to handle asynchronicity", function(done) {
+
+      console.log(done);
+
       var flag = false;
       var finished = 0;
       var total = 2;

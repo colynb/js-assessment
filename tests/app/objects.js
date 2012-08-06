@@ -36,7 +36,7 @@ define([ 'app/objects' ], function(answers) {
       var obj1 = new C('Rebecca'),
           obj2 = new C('Melissa'),
           greeting = "What's up";
-
+          
       answers.alterObjects(C, greeting);
 
       expect(obj1.greeting).to.be(greeting);

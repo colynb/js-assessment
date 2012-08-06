@@ -18,7 +18,7 @@ define(function() {
       return myObject;
     },
 
-    // Setting the functions to named solved the problem
+    // Setting the functions to named variables, solved the problem
     functions : function(flag) {
       if (flag) {
         var getValue = function () { return "a"; }
