@@ -46,8 +46,16 @@ define(function() {
 
     },
 
+    /*
+     * Thought process
+     *  1. Just sum the items from the arguments object/array
+     */
     useArguments : function() {
-
+        var sum = 0;
+        for (var i = 0; i < arguments.length; i++) {
+            sum += arguments[i];
+        }
+        return sum;
     },
 
     callIt : function(fn) {

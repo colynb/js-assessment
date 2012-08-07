@@ -49,7 +49,6 @@ define([
       doSomeStuff = function (x) { return x * x; };
 
       var funcs = answers.makeClosures(arr, doSomeStuff);
-      console.log(funcs);
       expect(funcs).to.have.length(arr.length);
 
       for (var i = 0; i < arr.length; i++) {
