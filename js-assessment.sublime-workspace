@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"func",
+				"funcs"
+			],
+			[
 				"fizz",
 				"fizzbuzz"
 			],
@@ -510,10 +514,6 @@
 			[
 				"product",
 				"product-image"
-			],
-			[
-				"html",
-				"htmlentities"
 			]
 		]
 	},
@@ -571,7 +571,7 @@
 			"file": "app/objects.js",
 			"settings":
 			{
-				"buffer_size": 1338,
+				"buffer_size": 1669,
 				"line_ending": "Unix"
 			}
 		},
@@ -636,6 +636,14 @@
 			"settings":
 			{
 				"buffer_size": 4266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/functions.js",
+			"settings":
+			{
+				"buffer_size": 2632,
 				"line_ending": "Unix"
 			}
 		}
@@ -909,6 +917,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Rebecca",
 			"asdasd",
 			"Rebecca",
 			"this.n",
@@ -1035,8 +1044,7 @@
 			"watchCountdown",
 			"serverTime",
 			"countdown_enabled",
-			"Countdown",
-			"countdown"
+			"Countdown"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1138,7 +1146,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 15,
 			"sheets":
 			[
 				{
@@ -1265,8 +1273,8 @@
 						"selection":
 						[
 							[
-								1943,
-								1943
+								503,
+								599
 							]
 						],
 						"settings":
@@ -1276,7 +1284,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 414.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1314,15 +1322,15 @@
 					"file": "app/objects.js",
 					"settings":
 					{
-						"buffer_size": 1338,
+						"buffer_size": 1669,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								544,
-								544
+								422,
+								422
 							]
 						],
 						"settings":
@@ -1349,8 +1357,8 @@
 						"selection":
 						[
 							[
-								385,
-								385
+								384,
+								384
 							]
 						],
 						"settings":
@@ -1543,8 +1551,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								1759,
+								1759
 							]
 						],
 						"settings":
@@ -1554,7 +1562,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 904.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/functions.js",
+					"settings":
+					{
+						"buffer_size": 2632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1534,
+								1534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 544.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
