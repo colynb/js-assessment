@@ -16,7 +16,7 @@ define(function() {
 
     /* 
      * Thought process
-     *  1. Just take a stab at returning a function that returns a contatenated string
+     *  1. Just take a stab at returning a function that returns a concatenated string
      */
     functionFunction : function(str1) {
         return function(str2) {
@@ -27,7 +27,7 @@ define(function() {
     /*
      * Thought process
      *  1. Iterate over array, create another array of functions that return the return value of the doSomeStuff function.
-     *  2. This was tricky but after trying several variations, I solved it.
+     *  2. This was tricky but after trying several variations, I solved it with self executing function.
      */
     makeClosures : function(arr, fn) {
         var funcs = [];
@@ -58,8 +58,17 @@ define(function() {
         return sum;
     },
 
+    /*
+     * Thought process
+     *  1. Just take function arguments, remove the first one then pass them to function.
+     *  2. The trick is passing the arguments to the function dynamically.
+     *  3. Can be done with the 'apply' method.
+     */
     callIt : function(fn) {
-
+        var args = Array.prototype.slice.call(arguments);
+        args.shift();
+        console.log(args);
+        fn.apply(null, args);
     },
 
     curryIt : function(fn) {
