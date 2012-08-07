@@ -67,12 +67,31 @@ define(function() {
     callIt : function(fn) {
         var args = Array.prototype.slice.call(arguments);
         args.shift();
-        console.log(args);
         fn.apply(null, args);
     },
 
+    /* 
+     * Thought process
+     *  1. Vaguely familiar with currying
+     *  2. Kind of a brute force implementation
+     */
     curryIt : function(fn) {
+        var args = Array.prototype.slice.call(arguments);
+        args.shift();
 
+        if (args.length == 0) {
+            return fn;  
+        }
+        if (args.length == 1) {
+            return function (b, c) { return fn(args[0], b, c); }
+        }
+        if (args.length == 2) {
+            return function (c) { return fn(args[0], args[1], c); }
+        }
+        if (args.length == 3) {
+            return function () { return fn(args[0], args[1], args[2]); }
+        }
+        
     }
   };
 });
