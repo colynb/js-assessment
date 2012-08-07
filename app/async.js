@@ -20,7 +20,7 @@ define([ 'jquery' ], function($) {
     /*
      * Thought process
      *  1. This method takes a URL and returns an object with a then function
-	 *  2. 'Then' function instantiates ajax call and return a sorted array on success
+	 *  2. 'Then' function instantiates ajax call and returns a sorted array on success
      */
     manipulateRemoteData : function(url) {
     	var my = {};

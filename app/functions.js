@@ -42,8 +42,12 @@ define(function() {
         return funcs;
     },
 
-    partial : function(fn, str1, str2) {
-
+    /*
+     * Thought process
+     *  1. Needs to return a function that returns the result of the input function
+     */
+    partial : function(fn, greeting, name) {
+        return function (punctuation) { return fn(greeting, name, punctuation); }
     },
 
     /*
